@@ -1,4 +1,4 @@
-###習題do while
+### 習題do while
 ```{r}
 void DOWHILE()
 {
@@ -18,7 +18,7 @@ void DOWHILE()
 }
 
 ```
-###結果
+### 結果
 ```{r}
 s = 0;
 i = 1;
