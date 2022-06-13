@@ -1,6 +1,6 @@
 ## 在C6 加上 do while
 
-### *enum
+### enum
 ```
 enum { // token : 0-127 直接用該字母表達， 128 以後用代號。
   Num = 128, Fun, Sys, Glo, Loc, Id,
@@ -8,7 +8,7 @@ enum { // token : 0-127 直接用該字母表達， 128 以後用代號。
   Assign, Cond, Lor, Lan, Or, Xor, And, Eq, Ne, Lt, Gt, Le, Ge, Shl, Shr, Add, Sub, Mul, Div, Mod, Inc, Dec, Brak
 };
 ```
-### *compiler
+### compiler
 ```
 int compile(int fd) {
   int i, *t;
@@ -27,7 +27,7 @@ int compile(int fd) {
   return prog();
 }
 ```
-### *加Do
+### 加Do
 ```
 else if(tk == Do){    //do語句
     next();
