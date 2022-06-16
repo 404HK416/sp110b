@@ -111,9 +111,9 @@ incremented in!
 ```
 
 ## 哲學家進餐問題
-```
+
 [維基百科](https://zh.wikipedia.org/zh-tw/%E5%93%B2%E5%AD%A6%E5%AE%B6%E5%B0%B1%E9%A4%90%E9%97%AE%E9%A2%98)
-```
+
 
 
 
